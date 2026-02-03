@@ -1,4 +1,4 @@
-![photo_6337066581753532155_w](https://github.com/user-attachments/assets/35254825-c885-4244-ac4f-b0ec06de30a9)# ShellcodeLoad-Go
+# ShellcodeLoad-Go
 
 一款基于 Go 语言开发的高级 Windows Shellcode 加载器，集成了多种现代红队规避（Evasion）与对抗技术。本项目仅供合法的安全研究与授权渗透测试使用。
 
