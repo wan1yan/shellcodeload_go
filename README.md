@@ -25,7 +25,8 @@
    ![photo_6337066581753532155_w](https://github.com/user-attachments/assets/955229d0-bf55-4ed1-b153-014529ddfe31)
 ## 测试360动静无感
 <img width="1355" height="829" alt="image" src="https://github.com/user-attachments/assets/890cdfeb-945a-4d88-87c3-64c7abb351b3" />
-
+## 使用手册
+https://github.com/wan1yan/shellcodeload_go/blob/main/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.md
 ## 免责声明
 
 本工具仅用于安全研究与学习。使用者需遵守当地法律法规，严禁用于任何非法用途。作者不对因使用本工具造成的任何后果负责。
